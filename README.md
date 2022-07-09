@@ -5,7 +5,7 @@
 [@aintbe](https://github.com/aintbe)  
 [@cranemont](https://github.com/cranemont)  
 [@djc06048](https://github.com/djc06048)  
-[@goo314](https://github.com/goo314)  
+[@goo314](https://github.com/goo314/2022-SKKUDING-CleanCode-md)  
 [@minseo999](https://github.com/minseo999)  
 [@SOLBI1028](https://github.com/SOLBI1028)  
 [@SH9480P](https://github.com/SH9480P)  
