@@ -165,7 +165,7 @@ async validateUser(loginUserDto: LoginUserDto): Promise<User> {
     ```tsx
     async issueJwtTokens(loginUserDto: LoginUserDto): Promise<JwtTokens> {
       const user = await this.userService.getUserCredential(loginUserDto.username)
-      if(!(await this.isValidadUser(user, loginUserDto.password)) {
+      if(!(await this.isValidadUser(user, loginUserDto.password))) {
         throw new PasswordNotMatchException('Password does not match')
       }
       return await this.createJwtTokens(user.id, user.username)
